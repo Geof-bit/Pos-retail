@@ -1,6 +1,6 @@
-# POS Retail Pro — Flutter Starter Project
+# POS Retail Pro — Flutter Project
 
-This is an original Flutter implementation for the retail POS assignment.
+An original Flutter implementation for the retail POS
 
 ## Included
 - Splash / welcome screen
